@@ -1,0 +1,24 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.recipesList a{
+    text-decoration: none;
+    color: black;
+    padding: 10px
+    
+}
+
+.recipesList a:hover{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+}
+.recipesList{
+    width: 200px;
+}
+
+.recipesList li{
+    padding: 15px;
+}
+
